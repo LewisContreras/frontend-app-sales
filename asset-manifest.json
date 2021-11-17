@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/sales-team/static/css/main.42acf6b3.chunk.css",
-    "main.js": "/sales-team/static/js/main.8fec03b7.chunk.js",
-    "main.js.map": "/sales-team/static/js/main.8fec03b7.chunk.js.map",
-    "runtime-main.js": "/sales-team/static/js/runtime-main.b2527a84.js",
-    "runtime-main.js.map": "/sales-team/static/js/runtime-main.b2527a84.js.map",
-    "static/js/2.92ef2867.chunk.js": "/sales-team/static/js/2.92ef2867.chunk.js",
-    "static/js/2.92ef2867.chunk.js.map": "/sales-team/static/js/2.92ef2867.chunk.js.map",
-    "index.html": "/sales-team/index.html",
-    "precache-manifest.e12fb90e64a3d7fcf9f90558fdd2cb61.js": "/sales-team/precache-manifest.e12fb90e64a3d7fcf9f90558fdd2cb61.js",
-    "service-worker.js": "/sales-team/service-worker.js",
-    "static/css/main.42acf6b3.chunk.css.map": "/sales-team/static/css/main.42acf6b3.chunk.css.map",
-    "static/js/2.92ef2867.chunk.js.LICENSE.txt": "/sales-team/static/js/2.92ef2867.chunk.js.LICENSE.txt",
-    "static/media/memories.png": "/sales-team/static/media/memories.5c0c63fb.png"
+    "main.css": "/frontend-app-sales/static/css/main.42acf6b3.chunk.css",
+    "main.js": "/frontend-app-sales/static/js/main.8fec03b7.chunk.js",
+    "main.js.map": "/frontend-app-sales/static/js/main.8fec03b7.chunk.js.map",
+    "runtime-main.js": "/frontend-app-sales/static/js/runtime-main.dc6461b4.js",
+    "runtime-main.js.map": "/frontend-app-sales/static/js/runtime-main.dc6461b4.js.map",
+    "static/js/2.92ef2867.chunk.js": "/frontend-app-sales/static/js/2.92ef2867.chunk.js",
+    "static/js/2.92ef2867.chunk.js.map": "/frontend-app-sales/static/js/2.92ef2867.chunk.js.map",
+    "index.html": "/frontend-app-sales/index.html",
+    "precache-manifest.86b8eb9c5ba81ccbb3125846ebaab7e5.js": "/frontend-app-sales/precache-manifest.86b8eb9c5ba81ccbb3125846ebaab7e5.js",
+    "service-worker.js": "/frontend-app-sales/service-worker.js",
+    "static/css/main.42acf6b3.chunk.css.map": "/frontend-app-sales/static/css/main.42acf6b3.chunk.css.map",
+    "static/js/2.92ef2867.chunk.js.LICENSE.txt": "/frontend-app-sales/static/js/2.92ef2867.chunk.js.LICENSE.txt",
+    "static/media/memories.png": "/frontend-app-sales/static/media/memories.5c0c63fb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2527a84.js",
+    "static/js/runtime-main.dc6461b4.js",
     "static/js/2.92ef2867.chunk.js",
     "static/css/main.42acf6b3.chunk.css",
     "static/js/main.8fec03b7.chunk.js"
